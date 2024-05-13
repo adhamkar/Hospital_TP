@@ -1,6 +1,6 @@
 <h2> Jpa, Hibernate Spring Data  </h2>
 # Projet de Gestion de Patients
-<h4>Réaliser par Maryam Nfad </h4>
+<h4>Réaliser par Karmadi Adham </h4>
 Ce projet vise à mettre en place un système de gestion de patients utilisant Spring Boot et JPA. Suivez les étapes ci-dessous pour configurer et exécuter le projet.
 
 ## Étapes d'installation
@@ -23,7 +23,5 @@ Ce projet vise à mettre en place un système de gestion de patients utilisant S
 
 6. **Migration vers MySQL** :
     - Une fois le développement initial terminé, migrez la base de données de H2 vers MySQL en modifiant la configuration de l'unité de persistance et en ajustant les dépendances Maven si nécessaire.
-      <img src="captures/img4.png">
       <img src="captures/img2.png">
-      <img src="captures/img3.png">
       <img src="captures/img1.png">
